@@ -14,6 +14,9 @@
 1- import with Android Studio https://github.com/nayelfares/NYTimes.git
 2- Download and Sync Gradle and Click on Run.
 
+#### NY Times account
+![NYTimes account](https://github.com/nayelfares/NYTimes/blob/main/NYTimes%20account.png)
+
 #### Sample Screenshot
 ![Articles List](https://github.com/nayelfares/NYTimes/blob/main/articles_list.png)
 
