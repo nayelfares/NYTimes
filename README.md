@@ -15,4 +15,4 @@
 2- Download and Sync Gradle and Click on Run.
 
 #### Sample Screenshot
-[![Loading](https://github.com/nayelfares/NYTimes/snapshots)]()
+[![Loading](https://github.com/nayelfares/NYTimes/article_details.png)]()
