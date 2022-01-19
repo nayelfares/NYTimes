@@ -16,4 +16,8 @@
 
 #### Sample Screenshot
 ![Articles List](https://github.com/nayelfares/NYTimes/blob/main/articles_list.png)
+
+
+
+
 ![Article Details](https://github.com/nayelfares/NYTimes/blob/main/article_details.png)
