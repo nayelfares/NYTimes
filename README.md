@@ -15,4 +15,4 @@
 2- Download and Sync Gradle and Click on Run.
 
 #### Sample Screenshot
-![Alt text](https://github.com/nayelfares/NYTimes/article_details.png "Article Details")
+![Article Details](https://github.com/nayelfares/NYTimes/blob/main/article_details.png)
