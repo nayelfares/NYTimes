@@ -25,7 +25,7 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
  */
 @ExperimentalCoroutinesApi
 class NewsAdapter(
-    private val listener: ClickListener,
+    private val listener: ClickListener?,
     private val articlesList: List<Article>,
     private val twoPane: Boolean
 ) : RecyclerView.Adapter<NewsAdapter.ItemViewHolder>() {
@@ -66,7 +66,7 @@ class NewsAdapter(
         return ItemViewHolder.create(parent).listen { position ->
 
             if (twoPane) {
-                listener.onItemClick( articlesList[position])
+                listener?.onItemClick( articlesList[position])
             } else {
                 ContextCompat.startActivity(
                     parent.context,
